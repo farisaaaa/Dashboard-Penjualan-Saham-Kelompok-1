@@ -34,7 +34,8 @@ Project ini dibuat menggunakan **Python** dan **Streamlit** untuk menampilkan da
 - Pandas  
 - Plotly  
 - Matplotlib  
-- Seaborn  
+- Seaborn
+- Plotly express
 
 ---
 
