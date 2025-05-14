@@ -1,5 +1,12 @@
 # 📊 Dashboard-Penjualan-Saham-Kelompok-1
 
+Anggota :
+1.Sri Cahyani
+2.Dini Aprilia
+3.Najwa Laila Farsya
+4.Ahmad Afif Raihan
+5.M Rizky El Sulthani L
+
 
 Project ini dibuat menggunakan **Python dan Streamlit** untuk menampilkan dashboard interaktif dari data saham beberapa perusahaan. Dashboard memiliki fitur:
 - 📌 Tampilan umum data (informasi & statistik)
