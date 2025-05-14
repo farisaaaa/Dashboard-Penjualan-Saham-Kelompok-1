@@ -2,7 +2,7 @@
 
 ## 👥 Anggota:
 1. Sri Cahyani  184230018
-2. Dini Aprilia  184230026
+2. Dini Aprilia Cahyani  184230026
 3. Najwa Laila Farsya  184230041
 4. Ahmad Afif Raihan  184230006
 5. M Rizky El Sulthani L 184230043
