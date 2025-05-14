@@ -1,4 +1,4 @@
-# 📊 Dashboard Penjualan Saham Kelompok 1 (Untuk Mmenuhi Penialaian ATS Semester 4)
+# 📊 Dashboard Penjualan Saham Kelompok 1 (Untuk Memenuhi Penialaian ATS Semester 4)
 
 ## 👥 Anggota:
 1. Sri Cahyani  184230018
